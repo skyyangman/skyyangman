@@ -11,8 +11,7 @@ title: "About"
 
 ## Contact
 
-email: skyyangman@gmail.com 
-</p>
+email: skyyangman@gmail.com
 
 ### About this site：
 
