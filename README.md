@@ -1,4 +1,4 @@
 # skyyangman
-for blog
+For blog
 
-- read me file
+- Creat my page
