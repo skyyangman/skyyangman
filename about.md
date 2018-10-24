@@ -11,13 +11,13 @@ title: "About"
 
 ## Contact
 
-email: skyyangman@gmail.com
+* Email: skyyangman@gmail.com
 
 ### About this site：
 
-* from [Github](https://github.com/LippiOuYang/LippiOuYang.github.io)
+* See orininal:from [Github](https://github.com/LippiOuYang/LippiOuYang.github.io)
 
 ## else
-* keep
-* learning
-* hard
+* keep going 
+* learning very
+* play hard
